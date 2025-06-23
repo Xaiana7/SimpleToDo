@@ -1,0 +1,6 @@
+@SimpleToDo.Server_HostAddress = http://localhost:5204
+
+GET {{SimpleToDo.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
